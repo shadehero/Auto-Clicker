@@ -1,0 +1,6 @@
+C:\Users\ShadeHero\Documents\Projects\ShadeAutoClicker\ShadeAutoClicker\bin\Debug\ShadeAutoClicker.exe
+C:\Users\ShadeHero\Documents\Projects\ShadeAutoClicker\ShadeAutoClicker\bin\Debug\ShadeAutoClicker.pdb
+C:\Users\ShadeHero\Documents\Projects\ShadeAutoClicker\ShadeAutoClicker\obj\x86\Debug\ShadeAutoClicker.exe
+C:\Users\ShadeHero\Documents\Projects\ShadeAutoClicker\ShadeAutoClicker\obj\x86\Debug\ShadeAutoClicker.pdb
+C:\Users\ShadeHero\Documents\Projects\ShadeAutoClicker\ShadeAutoClicker\bin\Debug\System.Drawing.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeAutoClicker\ShadeAutoClicker\bin\Debug\System.Windows.Forms.dll
